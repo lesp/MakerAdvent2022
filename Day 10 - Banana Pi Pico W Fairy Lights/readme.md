@@ -2,6 +2,16 @@
 
 All of the code and images are in their respective folder.
 
+The Bill of Materials is as follows
+* [Banana Pi Pico W](https://www.aliexpress.com/item/1005004775634442.html)
+* Dollar Store / Pound Shop LEDs (Battery Operated)
+* NPN Transistor (2N 2222)
+* Breadboard
+* Wires
+* Screw terminal
+* 1K Ohm Resistor
+* 10 Ohm Resistor
+
 I [bought the Banana Pi Pico W from Aliexpress](https://www.aliexpress.com/item/1005004775634442.html) for around £10.
 
 It came with CircuitPython pre-loaded, but it would be best practice to [flash the latest version.](https://circuitpython.org/board/bpi_picow_s3/)
