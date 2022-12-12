@@ -10,7 +10,7 @@ The Bill of Materials is as follows
 * Wires
 * 10K Ohm Resistor
 
-![https://github.com/lesp/MakerAdvent2022/blob/main/Day%2012%20-%20DHT11/Diagrams/DHT%20Circuit.png](Circuit diagram)
+![Circuit diagram](https://github.com/lesp/MakerAdvent2022/blob/main/Day%2012%20-%20DHT11/Diagrams/DHT%20Circuit.png)
 
 I [bought the Banana Pi Pico W from Aliexpress](https://www.aliexpress.com/item/1005004775634442.html) for around £10.
 
