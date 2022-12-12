@@ -4,7 +4,7 @@ All of the code and images are in their respective folder.
 
 
 
-The Bill of Materials is as follows
+## The Bill of Materials is as follows
 * [Banana Pi Pico W](https://www.aliexpress.com/item/1005004775634442.html)
 * Breadboard
 * Wires
@@ -12,8 +12,11 @@ The Bill of Materials is as follows
 
 ![Circuit diagram](https://github.com/lesp/MakerAdvent2022/blob/main/Day%2012%20-%20DHT11/Diagrams/DHT%20Circuit.png)
 
-I [bought the Banana Pi Pico W from Aliexpress](https://www.aliexpress.com/item/1005004775634442.html) for around £10.
+!## Banana Pi Pico W Pinout
 
+
+I [bought the Banana Pi Pico W from Aliexpress](https://www.aliexpress.com/item/1005004775634442.html) for around £10.
+![Pinout diagram](https://github.com/lesp/MakerAdvent2022/blob/main/Day%2012%20-%20DHT11/Diagrams/BPI-PicoW-S3-V0.4-IO.png)
 
 It came with CircuitPython pre-loaded, but it would be best practice to [flash the latest version.](https://circuitpython.org/board/bpi_picow_s3/)
 
